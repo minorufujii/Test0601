@@ -22,3 +22,13 @@
 ＊　テスト＊　テスト
 
 ![](https://simple.wikipedia.org/wiki/File:Kendo_EM_2005_-_kote.jpg)
+
+```java
+public void main(String [] ards){
+
+System.iut.prinyls("abc");
+
+}
+
+```
+
