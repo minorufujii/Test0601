@@ -12,3 +12,10 @@
 ===============
 レベル2の見出し
 ---------------
+
+<blockquote>
+  <p>このテキストは、HTMLのblockquote要素に囲まれます。
+blockquote要素はreflowableです。テキストを好きなように
+改行することができます。改行したとしても、変換後はひとつの
+blockquote要素として扱われます。</p>
+</blockquote>
