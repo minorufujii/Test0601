@@ -13,15 +13,12 @@
 レベル2の見出し
 ---------------
 
-<blockquote>
-  <p>このテキストは、HTMLのblockquote要素に囲まれます。
-blockquote要素はreflowableです。テキストを好きなように
-改行することができます。改行したとしても、変換後はひとつの
-blockquote要素として扱われます。</p>
-</blockquote>
-
 *強調* もしくは _強調_（斜体として表現されることが多い）
 **強い強調** もしくは __強い強調__（太字として表現されることが多い）
 
+テスト
 ＊　テスト
-＊＊　テスト
+＊　テスト
+＊　テスト＊　テスト
+
+![](https://www.google.co.jp/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj23uHDz5vUAhWJkJQKHWPcB88QjRwIBw&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKendo&psig=AFQjCNH7-oAS8d4X7ZWVd6O3IYvx3hS2CA&ust=1496371272814202)
