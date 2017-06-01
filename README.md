@@ -21,4 +21,4 @@
 ＊　テスト
 ＊　テスト＊　テスト
 
-![](https://www.google.co.jp/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj23uHDz5vUAhWJkJQKHWPcB88QjRwIBw&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKendo&psig=AFQjCNH7-oAS8d4X7ZWVd6O3IYvx3hS2CA&ust=1496371272814202)
+![](https://simple.wikipedia.org/wiki/File:Kendo_EM_2005_-_kote.jpg)
